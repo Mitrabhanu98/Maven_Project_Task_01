@@ -4,4 +4,14 @@
   <artifactId>Maven_Project_Task_01</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+
+  <dependencies>
+	  <dependency>
+		  <groupId>org.springframework</groupId>
+		  <artifactId>spring-context</artifactId>
+		  <version>6.0.11</version>
+	  </dependency>
+  </dependencies>
+
+
 </project>
